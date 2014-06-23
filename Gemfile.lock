@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.1)
+    pit (0.0.7)
+    plotly (0.0.1)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pit
+  plotly
